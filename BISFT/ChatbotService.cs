@@ -13,7 +13,7 @@ namespace BISFT
 {
     public class ChatbotService
     {
-        private readonly string hfToken = "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";
+        private readonly string hfToken = "Yout_Hugging_Face_Token";
         private readonly string apiUrl = "https://api-inference.huggingface.co/models/HuggingFaceH4/zephyr-7b-beta";
         private readonly DatabaseService db;
 
