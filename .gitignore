@@ -1,0 +1,18 @@
+# Build and IDE folders
+bin/
+obj/
+.vs/
+packages/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs and cache
+*.log
+*.tmp
+*.cache
+
+# OS-specific files
+Thumbs.db
+.DS_Store

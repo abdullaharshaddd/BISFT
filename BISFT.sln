@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BISFT", "BISFT\BISFT.csproj", "{B67BBF30-DED9-449B-AFB6-FB1F86BC3FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B67BBF30-DED9-449B-AFB6-FB1F86BC3FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67BBF30-DED9-449B-AFB6-FB1F86BC3FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67BBF30-DED9-449B-AFB6-FB1F86BC3FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67BBF30-DED9-449B-AFB6-FB1F86BC3FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A65EB3FE-82F7-45A9-9012-F1F112EC2BB1}
+	EndGlobalSection
+EndGlobal
